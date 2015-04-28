@@ -28,7 +28,7 @@
   },
   "homepage": "https://github.com/cezary/react-webcam",
   "peerDependencies": {
-    "react": "^0.12.1"
+    "react": "^0.13.x"
   },
   "devDependencies": {
     "jsx-loader": "^0.12.2",
